@@ -24,6 +24,7 @@ Gem::Specification.new do |s|
     "README.rdoc",
     "Rakefile",
     "VERSION",
+    "id2path.gemspec",
     "lib/id2path.rb",
     "test/helper.rb",
     "test/test_id2path.rb"
