@@ -17,8 +17,8 @@ Jeweler::Tasks.new do |gem|
   gem.name = "id2path"
   gem.homepage = "http://github.com/zhuzhe/id2path"
   gem.license = "MIT"
-  gem.summary = %Q{TODO: one-line summary of your gem}
-  gem.description = %Q{TODO: longer description of your gem}
+  gem.summary = %Q{for object with id attribute create file}
+  gem.description = %Q{for activerecord common}
   gem.email = "zhuzheiswho@sina.com"
   gem.authors = ["zhuzhe"]
   # dependencies defined in Gemfile
